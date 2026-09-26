@@ -1,0 +1,22 @@
+Main_Categoery,Sub_Categorey,Widh,Widh_Unit,Height,Height_Unit,Resolution,Top,Top_Unit,Bottom,Bottom_Unit,Left,Left_Unit,Right,Right Unit,Vertical Allignment,Horizontol Allignment,Selcton Type,COMMENTS
+MODEL_FULL,800*1000,800,pxls,1000,pxls,300,,pxls,25,pxls,,,,pxls,Bottom,Center,Select Subject,If images received low dimension
+MODEL_FULL,900*1125,900,pxls,1125,pxls,300,,pxls,30,pxls,,,,pxls,Bottom,Center,Select Subject,If images received low dimension use this dimention
+MODEL_FULL,1000*1250,1000,pxls,1250,pxls,300,,pxls,35,pxls,,,,pxls,Bottom,Center,Select Subject,If images received low dimension use this dimention
+MODEL_FULL,1200*1500,1200,pxls,1500,pxls,300,,pxls,50,pxls,,,,pxls,Bottom,Center,Select Subject,If images received low dimension use this dimention
+MODEL_FULL,2000*2000,2000,pxls,2000,pxls,300,,pxls,100,pxls,,,,pxls,Bottom,Center,Select Subject,Standad As per SOP
+MODEL_FULL,Detail_Shots,1200,pxls,1500,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,If images received low dimension use this dimention
+MODEL_TOP,800*1000,800,pxls,1000,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,If images received low dimension
+MODEL_TOP,900*1125,900,pxls,1125,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,If images received low dimension use this dimention
+MODEL_TOP,1000*1250,1000,pxls,1250,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,If images received low dimension use this dimention
+MODEL_TOP,1200*1500,1200,pxls,1500,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,If images received low dimension use this dimention
+MODEL_TOP,2000*2000,2000,pxls,2000,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,Standad As per SOP
+MODEL_CP_KNEE,800*1000,800,pxls,1000,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_KNEE,900*1125,900,pxls,1125,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_KNEE,1000*1250,1000,pxls,1250,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_KNEE,1200*1500,1200,pxls,1500,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_KNEE,2000*2000,2000,pxls,2000,pxls,300,,pxls,,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_BOTTOM,800*1000,800,pxls,1000,pxls,300,,pxls,50,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_BOTTOM,900*1125,900,pxls,1125,pxls,300,,pxls,50,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_BOTTOM,1000*1250,1000,pxls,1250,pxls,300,,pxls,50,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_BOTTOM,1200*1500,1200,pxls,1500,pxls,300,,pxls,50,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
+MODEL_CP_BOTTOM,2000*2000,2000,pxls,2000,pxls,300,,pxls,50,pxls,,pxls,,pxls,Bottom,Center,Select Subject,
