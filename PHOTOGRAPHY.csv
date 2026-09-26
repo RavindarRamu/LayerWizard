@@ -1,0 +1,12 @@
+Main_Categoery,Sub_Categorey,Widh,Widh_Unit,Height,Height_Unit,Resolution,Top,Top_Unit,Bottom,Bottom_Unit,Left,Left_Unit,Right,Right Unit,Vertical Allignment,Horizontol Allignment,Selcton Type,COMMENTS
+JEWELRY,Ring,1200,pxls,1500,pxls,300,300,pxls,300,pxls,300,pxls,300,pxls,Center,Center,ol,
+JEWELRY,Earring,1200,pxls,1500,pxls,300,250,pxls,250,pxls,250,pxls,250,pxls,Center,Center,ol,
+JEWELRY,Earring_Long,1200,pxls,1500,pxls,300,100,pxls,100,pxls,100,pxls,100,pxls,Center,Center,ol,
+JEWELRY,Earrings_Sets,1200,pxls,1500,pxls,300,100,pxls,100,pxls,100,pxls,100,pxls,Center,Center,ol,
+JEWELRY,Necklece_Shot,1200,pxls,1500,pxls,300,,pxls,150,pxls,,pxls,,pxls,Bottom,Center,ol,
+JEWELRY,Necklece_Long,1200,pxls,1500,pxls,300,150,pxls,150,pxls,,pxls,,pxls,Bottom,Center,ol,
+JEWELRY,Detail_Shots,1200,pxls,1500,pxls,300,150,pxls,150,pxls,,pxls,,pxls,Bottom,Center,ol,
+JEWELRY,Long_Chain,1200,pxls,1500,pxls,300,50,pxls,50,pxls,50,pxls,50,pxls,Bottom,Center,ol,
+JEWELRY,Group_Shot,1200,pxls,1500,pxls,300,100,pxls,100,pxls,100,pxls,100,pxls,Bottom,Center,ol,
+JEWELRY,Bracelet,1200,pxls,1500,pxls,300,50,pxls,50,pxls,50,pxls,50,pxls,Bottom,Center,ol,
+JEWELRY,Bracelet_Add_Shot,1200,pxls,1500,pxls,300,200,pxls,200,pxls,150,pxls,150,pxls,Bottom,Center,ol,
